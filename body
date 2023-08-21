@@ -1,0 +1,176 @@
+<!-- FORM: BODY SECTION -->
+<div class="wFormContainer" >
+    <div class="wFormHeader"></div>
+    <style type="text/css">
+                #tfa_8,
+                *[id^="tfa_8["] {
+                    width: 188px !important;
+                }
+                #tfa_8-D,
+                *[id^="tfa_8["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_18,
+                *[id^="tfa_18["] {
+                    width: 200px !important;
+                }
+                #tfa_18-D,
+                *[id^="tfa_18["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_9,
+                *[id^="tfa_9["] {
+                    width: 211px !important;
+                }
+                #tfa_9-D,
+                *[id^="tfa_9["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_4,
+                *[id^="tfa_4["] {
+                    width: 188px !important;
+                }
+                #tfa_4-D,
+                *[id^="tfa_4["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_11,
+                *[id^="tfa_11["] {
+                    width: 200px !important;
+                }
+                #tfa_11-D,
+                *[id^="tfa_11["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_1863,
+                *[id^="tfa_1863["] {
+                    width: 668px !important;
+                }
+                #tfa_1863-D,
+                *[id^="tfa_1863["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_1864,
+                *[id^="tfa_1864["] {
+                    width: 668px !important;
+                }
+                #tfa_1864-D,
+                *[id^="tfa_1864["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_1864-L,
+                label[id^="tfa_1864["] {
+                    width: 636px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_1865,
+                *[id^="tfa_1865["] {
+                    width: 188px !important;
+                }
+                #tfa_1865-D,
+                *[id^="tfa_1865["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_1865-L,
+                label[id^="tfa_1865["] {
+                    width: 176px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_2162,
+                *[id^="tfa_2162["] {
+                    width: 220px !important;
+                }
+                #tfa_2162-D,
+                *[id^="tfa_2162["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_2177,
+                *[id^="tfa_2177["] {
+                    width: 200px !important;
+                }
+                #tfa_2177-D,
+                *[id^="tfa_2177["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_2177-L,
+                label[id^="tfa_2177["] {
+                    width: 168px !important;
+                    min-width: 0px;
+                }
+            </style><div class=""><div class="wForm" id="5080781-WRPR" dir="ltr">
+<div class="codesection" id="code-5080781"></div>
+<form method="post" action="https://www.tfaforms.com/api_v2/workflow/processor" class="hintsBelow labelsAbove" id="5080781" role="form">
+<div class="htmlSection" id="tfa_13"><div class="htmlContent" id="tfa_13-HTML">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="//www.tfaforms.com/forms/get_image/8347/MT6a1W1cHJyKYJtjLGtQ0vKekgXayRj7ztadTfvzjPih969SAELZNs4aRkYRbECo-Capture.JPG" alt="Fernhill Academy Logo" style="max-width: 100%;width: 50%;height: 50%;"></div></div>
+<div class="htmlSection" id="tfa_20"><div class="htmlContent" id="tfa_20-HTML"><div style="text-align: center;"><b><u>Agent Registration Form</u></b></div><div style="text-align: center;"><a target="_blank" href="https://www.klickcareer.ca/">KlickCareer.ca</a></div></div></div>
+<div id="tfa_10" class="section inline group">
+<div class="oneField field-container-D    " id="tfa_8-D">
+<label id="tfa_8-L" class="label preField reqMark" for="tfa_8">First Name</label><br><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_8" name="tfa_8" value="" title="First Name" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_18-D">
+<label id="tfa_18-L" class="label preField " for="tfa_18">Middle Name</label><br><div class="inputWrapper"><input type="text" id="tfa_18" name="tfa_18" value="" title="Middle Name" class=""></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_9-D">
+<label id="tfa_9-L" class="label preField reqMark" for="tfa_9">Last Name</label><br><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_9" name="tfa_9" value="" title="Last Name" class="required"></div>
+</div>
+</div>
+<div id="tfa_12" class="section inline group">
+<div class="oneField field-container-D    " id="tfa_4-D">
+<label id="tfa_4-L" class="label preField reqMark" for="tfa_4">Phone</label><br><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_4" name="tfa_4" value="" title="Phone" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_11-D">
+<label id="tfa_11-L" class="label preField reqMark" for="tfa_11">Email</label><br><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_11" name="tfa_11" value="" title="Email" class="required"></div>
+</div>
+</div>
+<div id="tfa_1862" class="section group">
+<div class="oneField field-container-D    " id="tfa_1863-D">
+<label id="tfa_1863-L" class="label preField " for="tfa_1863">Address Line 1</label><br><div class="inputWrapper"><input type="text" id="tfa_1863" name="tfa_1863" value="" title="Address Line 1" class=""></div>
+</div>
+<div id="tfa_2179" class="section inline group">
+<div class="oneField field-container-D    " id="tfa_1864-D">
+<label id="tfa_1864-L" class="label preField " for="tfa_1864">Address Line 2</label><br><div class="inputWrapper"><input type="text" id="tfa_1864" name="tfa_1864" value="" title="Address Line 2" class=""></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_1865-D">
+<label id="tfa_1865-L" class="label preField " for="tfa_1865">City</label><br><div class="inputWrapper"><input type="text" id="tfa_1865" name="tfa_1865" value="" title="City" class=""></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_2162-D">
+<label id="tfa_2162-L" class="label preField " for="tfa_2162">Provinces</label><br><div class="inputWrapper"><select id="tfa_2162" name="tfa_2162" title="Provinces" class="calc-province"><option value="">Please select...</option>
+<option value="tfa_2163" id="tfa_2163" class="calcval-AB">Alberta</option>
+<option value="tfa_2164" id="tfa_2164" class="calcval-BC">British Columbia</option>
+<option value="tfa_2165" id="tfa_2165" class="calcval-MB">Manitoba</option>
+<option value="tfa_2166" id="tfa_2166" class="calcval-NB">New Brunswick</option>
+<option value="tfa_2167" id="tfa_2167" class="calcval-NL">Newfoundland</option>
+<option value="tfa_2168" id="tfa_2168" class="calcval-NT">Northwest Territories</option>
+<option value="tfa_2169" id="tfa_2169" class="calcval-NS">Nova Scotia</option>
+<option value="tfa_2170" id="tfa_2170" class="calcval-NU">Nunavut</option>
+<option value="tfa_2171" id="tfa_2171" class="calcval-ON">Ontario</option>
+<option value="tfa_2172" id="tfa_2172" class="calcval-PE">Prince Edward Island</option>
+<option value="tfa_2173" id="tfa_2173" class="calcval-QC">Quebec</option>
+<option value="tfa_2174" id="tfa_2174" class="calcval-SK">Saskatchewan</option>
+<option value="tfa_2175" id="tfa_2175" class="calcval-YT">Yukon</option></select></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_2177-D">
+<label id="tfa_2177-L" class="label preField " for="tfa_2177">Postal Code</label><br><div class="inputWrapper"><input type="text" id="tfa_2177" name="tfa_2177" value="" maxlength="6" title="Postal Code" class="validate-alphanum"></div>
+</div>
+</div>
+</div>
+<div class="actions" id="5080781-A" data-contentid="submit_button"><input type="submit" data-label="Submit" class="primaryAction" id="submit_button" value="Submit"></div>
+<div style="clear:both"></div>
+<input type="hidden" value="5080781" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="8fbf86cabc2d990d63194bcacb37519a" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="" name="tfa_dbWorkflowSessionUuid" id="tfa_dbWorkflowSessionUuid"><input type="hidden" value="14" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+</form>
+</div></div><div class="wFormFooter"><p class="supportInfo"><br></p></div>
+  <p class="supportInfo" >
+      </p>
+ </div>
+<script src="https://www.tfaforms.com/api_v2/sst/copy-and-paste"></script>
